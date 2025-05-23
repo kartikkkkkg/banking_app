@@ -1,4 +1,4 @@
-💳 Java Banking Application
+💳 Java Banking Application:
 This is a console-based Java application simulating basic banking operations such as account creation, deposits, withdrawals, and balance inquiries. The project demonstrates core concepts of Object-Oriented Programming (OOP) including inheritance, abstraction, interfaces, encapsulation, and polymorphism.
 
 📂 Features
