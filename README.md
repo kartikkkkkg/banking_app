@@ -1,74 +1,63 @@
-💳 Java Banking Application:
-This is a console-based Java application simulating basic banking operations such as account creation, deposits, withdrawals, and balance inquiries. The project demonstrates core concepts of Object-Oriented Programming (OOP) including inheritance, abstraction, interfaces, encapsulation, and polymorphism.
+<img width="276" alt="Screenshot 2025-05-23 at 11 35 17" src="https://github.com/user-attachments/assets/075394c0-d742-42e1-baa0-8b0466ec1c58" /># 💳 Java Banking Application
 
-📂 Features
-✅ Create customer accounts (Savings / Current)
+This is a **console-based Java application** simulating basic banking operations such as account creation, deposits, withdrawals, and balance inquiries. The project demonstrates core concepts of **Object-Oriented Programming (OOP)** including inheritance, abstraction, interfaces, encapsulation, and polymorphism.
 
-💰 Deposit and withdraw money
+---
 
-🧾 Check account balance
+## 📂 Features
 
-🚫 Handle insufficient balance
+- ✅ Create customer accounts (Savings / Current)
+- 💰 Deposit and withdraw money
+- 🧾 Check account balance
+- 🚫 Handle insufficient balance
+- 📦 Demonstrates use of:
+  - Classes and Objects
+  - Abstract Classes & Interfaces
+  - Inheritance & Method Overriding
+  - Static and Final modifiers
+  - Java Collections (List, Map)
 
-📦 Demonstrates use of:
+---
 
-Classes and Objects
+## 🏗️ Project Structure
 
-Abstract Classes & Interfaces
+<img width="279" alt="Screenshot 2025-05-23 at 11 35 24" src="https://github.com/user-attachments/assets/5b3eb21f-c2fa-4939-af0d-cc6c8d0f5fe6" />
 
-Inheritance & Method Overriding
+---
 
-Static and Final modifiers
+## 🛠️ How to Run
 
-Java Collections (List, Map)
+1. Clone the repository or download the source code
+2. Open in any Java IDE (IntelliJ, Eclipse, VS Code, etc.)
+3. Compile and run `Main.java`
+4. Interact with the app via the terminal
 
-🏗️ Project Structure
-css
-Copy
-Edit
-src/
-├── model/
-│   ├── Account.java
-│   ├── SavingsAccount.java
-│   └── CurrentAccount.java
-│
-├── service/
-│   ├── BankService.java
-│   └── IBankService.java
-│
-├── util/
-│   └── BankUtils.java
-│
-└── Main.java
-🛠️ How to Run
-Clone the repository or download the source code
+---
 
-Open in any Java IDE (IntelliJ, Eclipse, etc.)
+## 🧪 Sample Console Menu
 
-Compile and run Main.java
-
-Interact with the app via the terminal
-
-🧪 Sample Commands (Console)
-markdown
-Copy
-Edit
-Welcome to Java Banking App!
-1. Create Account
-2. Deposit
-3. Withdraw
-4. Check Balance
-5. Exit
-🔍 Learning Outcomes
+<img width="272" alt="Screenshot 2025-05-23 at 11 35 41" src="https://github.com/user-attachments/assets/57ef4b22-336e-40df-abc6-f0577ffc0b40" />
 
 
-This project is ideal for students and beginners to:
--Strengthen Java fundamentals
--Understand real-world implementation of OOP concepts
--Practice clean code structure and modular design
+---
 
-📅 Author & Date
-Author: Kartik Gupta
-Last Updated: May 2025
+## 🔍 Learning Outcomes
+
+This project helps reinforce:
+
+- Java fundamentals
+- Real-world application of OOP principles
+- Clean code and modular design
+- Command-line interaction
+
+---
+
+## 👤 Author & Date
+
+- **Author**: Kartik Gupta  
+- **Last Updated**: May 2025
+
+---
+
 
 
