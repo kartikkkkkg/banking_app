@@ -1,4 +1,4 @@
-<img width="276" alt="Screenshot 2025-05-23 at 11 35 17" src="https://github.com/user-attachments/assets/075394c0-d742-42e1-baa0-8b0466ec1c58" /># 💳 Java Banking Application
+# 💳 Java Banking Application
 
 This is a **console-based Java application** simulating basic banking operations such as account creation, deposits, withdrawals, and balance inquiries. The project demonstrates core concepts of **Object-Oriented Programming (OOP)** including inheritance, abstraction, interfaces, encapsulation, and polymorphism.
 
